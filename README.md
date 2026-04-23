@@ -14,6 +14,7 @@ https://vanlife-three-beryl.vercel.app/
 - **Reviews Management**: A section to view and manage feedback from renters.
 - **Dynamic Routing**: Individual detail pages for each van using URL parameters.
 - **Nested Layouts**: Utilizing shared layouts for the Host dashboard and main application navigation.
+- **Dummy Backend**: Used Mirage.js to mimmic backend.
 
 ## 🛠️ Tech Stack
 
