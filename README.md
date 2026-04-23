@@ -28,6 +28,7 @@ https://vanlife-three-beryl.vercel.app/
 * **Routing**: React Router v6 (Data APIs)
 * **Styling**: CSS3 / Built with a mobile-first approach
 * **Deployment**: Vercel
+* **Backend**: Mirage.js
 
 ## 📁 Project Structure & Routing
 
