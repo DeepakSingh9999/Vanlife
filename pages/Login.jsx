@@ -73,7 +73,7 @@ export default function Login() {
                     }
                 </button>
             </form>
-            <p>Demo ID & Pass: b@b.com & p123</p>
+            <p>Demo ID & Pass: dpk@vans.com & d1089</p>
         </div>
     )
 
